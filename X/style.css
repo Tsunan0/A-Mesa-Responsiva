@@ -1,0 +1,33 @@
+/* Cabeçalho */
+
+header{
+    background: linear-gradient(135deg, rgb(182, 247, 247) 0%, #009696 100%);
+}
+
+#logo{
+    width: 30%;
+    padding: 10px 0px 5px 15px;
+}
+
+#menu_cabeçalho a{
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+    float: right;
+    padding: 30px 15px 15px 0;
+}
+
+/* Celulares */
+
+@media (max-width: 450px) {
+}
+
+/* Tablets */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+}
+
+/* Orientação horizontal */
+
+@media (orientation: landscape) {
+}
